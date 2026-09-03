@@ -1754,6 +1754,7 @@ label:has(input[type='checkbox']:disabled) {
 .group-block,
 .group-block-content {
   position: relative;
+  top: 30px;
 }
 
 .group-block:has(> video-background-component) {
