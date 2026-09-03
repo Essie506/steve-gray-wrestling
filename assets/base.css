@@ -1757,6 +1757,15 @@ label:has(input[type='checkbox']:disabled) {
   top: 30px;
 }
 
+@media screen and (max-width: 640px) {
+
+.group-block,
+.group-block-content {
+  position: relative;
+  top: 0px;
+}
+}
+
 .group-block:has(> video-background-component) {
   overflow: hidden;
 }
