@@ -171,5 +171,10 @@
         "color4": "#ee542f"
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".header-logo {text-align: center;}"
+    ]
   }
 }

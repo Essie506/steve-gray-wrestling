@@ -97,6 +97,10 @@
           "blocks": {}
         }
       },
+      "custom_css": [
+        ".header__column--right {gap: 0px;}",
+        ".header__columns {--header-mobile-bookend: 22px;}"
+      ],
       "settings": {
         "logo_position": "center",
         "menu_position": "left",
