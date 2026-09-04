@@ -622,9 +622,10 @@ body,
   font-style: var(--font-paragraph--style);
   font-weight: var(--font-paragraph--weight);
   font-size: var(--font-paragraph--size);
+   font-size: small;
   text-transform: var(--font-paragraph--case);
   -webkit-font-smoothing: antialiased;
-  color: var(--color, var(--color-foreground));
+  color: var(--color, var(--color-foreground)); 
 }
 
 /* Ensure inputs with type presets maintain minimum 16px on mobile to prevent iOS zoom */

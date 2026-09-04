@@ -88,144 +88,6 @@
         "padding-block-end": 80
       }
     },
-    "media_with_content_E7M3aJ": {
-      "type": "media-with-content",
-      "blocks": {
-        "media": {
-          "type": "_media-without-appearance",
-          "static": true,
-          "settings": {
-            "media_type": "image",
-            "image": "shopify://shop_images/IMG_0741.jpg",
-            "link": "",
-            "video_loop": true,
-            "video_autoplay": false,
-            "image_position": "cover",
-            "video_position": "cover"
-          },
-          "blocks": {}
-        },
-        "content": {
-          "type": "_content-without-appearance",
-          "static": true,
-          "settings": {
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 24
-          },
-          "blocks": {
-            "text_8kEdFg": {
-              "type": "text",
-              "settings": {
-                "text": "<h3>The Early Years — 1950s</h3><p>Women’s wrestling developed a strong following in the United States during the 1950s. Surviving black-and-white footage captures wrestlers who had clearly invested considerable time and skill in their craft.</p><p>The ringwear reflected the conventions of the period, with many costumes featuring skirted fronts and relatively modest silhouettes. These early designs provide a fascinating starting point for the evolution of women’s wrestling attire.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "text_color": "",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_8kEdFg"
-          ]
-        }
-      },
-      "name": "t:names.media_with_text",
-      "settings": {
-        "media_position": "right",
-        "media_width": "medium",
-        "media_height": "50svh",
-        "section_width": "full-width",
-        "extend_media": true,
-        "background_color": "{{ settings.color_palette.color3 }}",
-        "padding-block-start": 0,
-        "padding-block-end": 0
-      }
-    },
-    "media_with_content_MUN3P3": {
-      "type": "media-with-content",
-      "blocks": {
-        "media": {
-          "type": "_media-without-appearance",
-          "static": true,
-          "settings": {
-            "media_type": "image",
-            "image": "shopify://shop_images/IMG_0093.jpg",
-            "link": "",
-            "video_loop": true,
-            "video_autoplay": false,
-            "image_position": "cover",
-            "video_position": "cover"
-          },
-          "blocks": {}
-        },
-        "content": {
-          "type": "_content-without-appearance",
-          "static": true,
-          "settings": {
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 24
-          },
-          "blocks": {
-            "text_xYkVGw": {
-              "type": "text",
-              "settings": {
-                "text": "<h3>The Golden Age — 1960s</h3><p>The 1960s represent the golden age of women’s wrestling. The skirted designs of the previous decade largely disappeared, replaced by the classic swimsuit-style wrestling suits that came to define the period.</p><p>Many incorporated structured, built-in bras, giving the garments strength and rigidity while creating the distinctive silhouette seen throughout 1960s wrestling photography. The late Cheryl Day remains one of my favourite wrestlers from this era.</p>",
-                "width": "100%",
-                "max_width": "narrow",
-                "alignment": "center",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "text_color": "",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_xYkVGw"
-          ]
-        }
-      },
-      "name": "t:names.media_with_text",
-      "settings": {
-        "media_position": "left",
-        "media_width": "medium",
-        "media_height": "50svh",
-        "section_width": "full-width",
-        "extend_media": true,
-        "background_color": "{{ settings.color_palette.color2 }}",
-        "padding-block-start": 0,
-        "padding-block-end": 0
-      }
-    },
     "section_eeFGpP": {
       "type": "section",
       "blocks": {
@@ -273,7 +135,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<h3>The Rise of Japanese Women’s Wrestling</h3><p>By the late 1960s, women’s wrestling was developing rapidly in Japan. All Japan Women’s Pro-Wrestling (AJW) emerged as one of the organisations that would help shape the sport for years to come.</p><p>Its wrestlers became renowned for their extraordinary fitness, preparation and training. Competition for places was intense, with prospective wrestlers undergoing demanding selection and conditioning before earning their place.</p>",
+                "text": "<h3>The Early Years — 1950s</h3><p>Women’s wrestling developed a strong following in the United States during the 1950s. Surviving black-and-white footage captures wrestlers who had clearly invested considerable time and skill in their craft.</p><p>The ringwear reflected the conventions of the period, with many costumes featuring skirted fronts and relatively modest silhouettes. These early designs provide a fascinating starting point for the evolution of women’s wrestling attire.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -378,7 +240,7 @@
             "overlay_color": "#00000026",
             "overlay_style": "solid",
             "gradient_direction": "to top",
-            "border": "solid",
+            "border": "none",
             "border_width": 1,
             "border_opacity": 100,
             "border_color": "",
@@ -420,7 +282,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<h3>A Changing Look — 1970s to 1990s</h3><p>By the late 1970s, wrestling fashion was beginning to change dramatically. Higher-cut swimsuits appeared alongside increasingly elaborate costumes, make-up and more theatrical presentation.</p><p>Through the 1980s and 1990s, the simple, classic aesthetic of the 1960s became increasingly difficult to find. Although elements of the earlier style survived — particularly within Japanese wrestling — the distinctive look that inspired this collection was gradually disappearing.</p>",
+                "text": "<h3>The Golden Age — 1960s</h3><p>The 1960s represent the golden age of women’s wrestling. The skirted designs of the previous decade largely disappeared, replaced by the classic swimsuit-style wrestling suits that came to define the period.</p><p>Many incorporated structured, built-in bras, giving the garments strength and rigidity while creating the distinctive silhouette seen throughout 1960s wrestling photography. The late Cheryl Day remains one of my favourite wrestlers from this era.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -482,12 +344,150 @@
         "padding-block-start": 0,
         "padding-block-end": 0
       }
+    },
+    "media_with_content_E7M3aJ": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "image": "shopify://shop_images/IMG_0741.jpg",
+            "link": "",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 24
+          },
+          "blocks": {
+            "text_8kEdFg": {
+              "type": "text",
+              "settings": {
+                "text": "<h3>The Rise of Japanese Women’s Wrestling</h3><p>By the late 1960s, women’s wrestling was developing rapidly in Japan. All Japan Women’s Pro-Wrestling (AJW) emerged as one of the organisations that would help shape the sport for years to come.</p><p>Its wrestlers became renowned for their extraordinary fitness, preparation and training. Competition for places was intense, with prospective wrestlers undergoing demanding selection and conditioning before earning their place.</p><p></p><h3></h3>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_8kEdFg"
+          ]
+        }
+      },
+      "name": "t:names.media_with_text",
+      "settings": {
+        "media_position": "right",
+        "media_width": "medium",
+        "media_height": "50svh",
+        "section_width": "full-width",
+        "extend_media": true,
+        "background_color": "{{ settings.color_palette.color3 }}",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
+    "media_with_content_MUN3P3": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "image": "shopify://shop_images/IMG_0093.jpg",
+            "link": "",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 24
+          },
+          "blocks": {
+            "text_xYkVGw": {
+              "type": "text",
+              "settings": {
+                "text": "<h3>A Changing Look — 1970s to 1990s</h3><p>By the late 1970s, wrestling fashion was beginning to change dramatically. Higher-cut swimsuits appeared alongside increasingly elaborate costumes, make-up and more theatrical presentation.</p><p>Through the 1980s and 1990s, the simple, classic aesthetic of the 1960s became increasingly difficult to find. Although elements of the earlier style survived — particularly within Japanese wrestling — the distinctive look that inspired this collection was gradually disappearing.</p>",
+                "width": "100%",
+                "max_width": "narrow",
+                "alignment": "center",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_xYkVGw"
+          ]
+        }
+      },
+      "name": "t:names.media_with_text",
+      "settings": {
+        "media_position": "left",
+        "media_width": "medium",
+        "media_height": "50svh",
+        "section_width": "full-width",
+        "extend_media": true,
+        "background_color": "{{ settings.color_palette.color2 }}",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
     }
   },
   "order": [
     "section_6PnLrM",
+    "section_eeFGpP",
     "media_with_content_E7M3aJ",
-    "media_with_content_MUN3P3",
-    "section_eeFGpP"
+    "media_with_content_MUN3P3"
   ]
 }
