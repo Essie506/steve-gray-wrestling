@@ -14,6 +14,21 @@
     "header_announcements_kcHY6p": {
       "type": "header-announcements",
       "blocks": {
+        "announcement_UNyCWD": {
+          "type": "_announcement",
+          "name": "t:names.announcement",
+          "settings": {
+            "text": "Steve Gray's 1950's Wrestling Photography",
+            "link": "shopify://collections/all",
+            "font": "var(--font-body--family)",
+            "font_size": "0.875rem",
+            "weight": "",
+            "letter_spacing": "normal",
+            "case": "none",
+            "text_color": ""
+          },
+          "blocks": {}
+        },
         "announcement_MHUQgy": {
           "type": "_announcement",
           "name": "t:names.announcement",
@@ -28,26 +43,11 @@
             "text_color": ""
           },
           "blocks": {}
-        },
-        "announcement_UNyCWD": {
-          "type": "_announcement",
-          "name": "t:names.announcement",
-          "settings": {
-            "text": "Just launched: bestselling skincare bundles",
-            "link": "shopify://collections/all",
-            "font": "var(--font-body--family)",
-            "font_size": "0.875rem",
-            "weight": "",
-            "letter_spacing": "normal",
-            "case": "none",
-            "text_color": ""
-          },
-          "blocks": {}
         }
       },
       "block_order": [
-        "announcement_MHUQgy",
-        "announcement_UNyCWD"
+        "announcement_UNyCWD",
+        "announcement_MHUQgy"
       ],
       "settings": {
         "speed": 5,
@@ -108,6 +108,7 @@
         "show_country": true,
         "country_selector_style": false,
         "show_language": true,
+        "show_cart": false,
         "localization_font": "heading",
         "localization_font_size": "0.875rem",
         "localization_position": "right",
